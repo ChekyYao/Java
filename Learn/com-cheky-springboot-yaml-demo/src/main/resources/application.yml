@@ -1,2 +1,17 @@
 server:
   port: 8081 #the default URL will change from localhost:8080/halo to localhost:8081/halo
+
+#configure person
+person:
+  last-name: XiaoMing
+  age: 18
+  birth: 2020/11/12
+  boss: true
+  dog:
+    name: laide
+    age: 3
+  maps: {k1: v1, k2: 12}
+  lists:
+    - list 1
+    - list 2
+    - list 3
