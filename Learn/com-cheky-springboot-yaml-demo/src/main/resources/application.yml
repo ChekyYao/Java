@@ -1,0 +1,2 @@
+server:
+  port: 8081 #the default URL will change from localhost:8080/halo to localhost:8081/halo
