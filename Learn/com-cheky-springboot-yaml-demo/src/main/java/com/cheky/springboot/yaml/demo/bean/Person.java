@@ -87,4 +87,8 @@ public class Person {
     public void setDog(Dog dog) {
         this.dog = dog;
     }
+
+    public void Print(){}
+
+    private static String testString;
 }
