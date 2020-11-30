@@ -11,6 +11,7 @@ import org.junit.jupiter.api.Test;
  * Reference: https://www.zhihu.com/question/20400700
  * Reference: https://blog.csdn.net/zeng255938/article/details/82912517
  *
+ * PECS：请记住PECS原则：生产者（Producer）使用extends，消费者（Consumer）使用super。
  */
 public class GenericsTest {
 
